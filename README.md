@@ -1,7 +1,7 @@
 ## Hi there I am Rehan Khalil, from Pakisan 🇵🇰 👋
-@website : https://rehan-portfolio.netlify.app/
+@portfolio : https://rehan-portfolio.netlify.app/
 
-🏛️ 4th year CS Student, at University of the Punjab, Jhelum Campus
+🏛️ CS Graduated , from University of the Punjab, Jhelum Campus
 
 My YouTube Channel : https://www.youtube.com/c/DevTechCare
 
