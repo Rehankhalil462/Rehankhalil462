@@ -14,4 +14,5 @@ My YouTube Channel : https://www.youtube.com/c/DevTechCare
 :octocat: Github => 🔗 https://github.com/rehankhalil462/
 
 🔵 Facebook: => 🔗 https://www.facebook.com/devtechcare
-:octocat: LinkedIn => https://www.linkedin.com/in/rehan-khalil
+
+🔵 LinkedIn => https://www.linkedin.com/in/rehan-khalil
