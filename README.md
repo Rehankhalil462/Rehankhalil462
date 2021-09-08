@@ -3,7 +3,7 @@
 
 🏛️ CS Graduated , from University of the Punjab, Jhelum Campus
 
-My YouTube Channel : https://www.youtube.com/c/DevTechCare
+My YouTube Channel : https://www.youtube.com/devtechcare?sub_confirmation=1
 
 ✔️ Learned "Front End Development using React"
 
