@@ -7,7 +7,9 @@ My YouTube Channel : https://www.youtube.com/devtechcare?sub_confirmation=1
 
 ✔️ Learned "Front End Development using React"
 
-🌱 Learning "Full Stack Web Application Development" .....
+✔️ Learned "Full MERN Stack Web Application Development"
+
+🌱 Learning "Mobile Application Development Using React Native" .....
 
 📫 How to reach me:
 
