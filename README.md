@@ -1,5 +1,5 @@
 ## Hi there I am Rehan Khalil, from Pakisan 🇵🇰 👋
-@portfolio : https://rehankhalilportfolio.netlify.app
+@portfolio : https://rehankhalil.netlify.app/
 
 🏛️ CS Graduated , from University of the Punjab, Jhelum Campus
 
