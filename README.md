@@ -1,9 +1,9 @@
-## Hi there I am Rehan Khalil, from Pakisan 🇵🇰 👋
+## Hi there, I am Rehan Khalil, from Pakistan , currently based in Finland 👋
 
 🏛️ Studying Masters of Science in Software Engineering @ University of Turku, Finland<br/>
 🏛️ BSCS Graduated , from University of the Punjab, Jhelum Campus
 
-My YouTube Channel : https://www.youtube.com/devtechcare?sub_confirmation=1
+
 
 ✔️ Learned "Front End Development using React"<br/>
 ✔️ Learned "Full MERN Stack Web Application Development"
@@ -12,9 +12,10 @@ My YouTube Channel : https://www.youtube.com/devtechcare?sub_confirmation=1
 
 📫 How to reach me:
 
-:octocat: Github => 🔗 https://github.com/rehankhalil462/<br/>
-🔵 LinkedIn => https://www.linkedin.com/in/rehan-khalil<br/>
-@portfolio : https://rehankhalil.netlify.app/
+:octocat: Github - https://github.com/rehankhalil462/<br/>
+🔵 LinkedIn - https://www.linkedin.com/in/rehan-khalil<br/>
+@portfolio - https://rehankhalil.netlify.app/<br/>
+YouTube - https://www.youtube.com/devtechcare?sub_confirmation=1
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rehankhalil462&theme=highcontrast&count_private=true&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
