@@ -1,4 +1,4 @@
-## Hi there, I am Rehan Khalil, from Pakistan 👋
+## Hi there, I am Rehan Khalil👋
 
 🏛️ Studying Masters of Science in Software Engineering @ University of Turku, Finland<br/>
 🏛️ BSCS Graduated , from University of the Punjab, Jhelum Campus
