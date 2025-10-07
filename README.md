@@ -1,10 +1,9 @@
 ## Hi there, I am Rehan Khalil👋
  
-🖥️ Research Assistant @ University of Turku, Finland </br>
+🖥️ Project Researcher @ University of Turku, Finland </br>
 
-🏛️ Studying Masters of Science in Software Engineering @ University of Turku, Finland<br/>
-
-🏛️ BSCS Graduated , from University of the Punjab, Jhelum Campus
+🎓 **M.Sc. Software Engineering** — University of Turku, Finland 🇫🇮 <br/>
+🎓 **B.Sc. Computer Science** — University of the Punjab, Jhelum Campus 🇵🇰
 
 * 🌍  I'm based in Finland
 * 🖥️  See my portfolio at [https://rehankhalil.netlify.app](http://rehankhalil.netlify.app)
